@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ToDoApp\ToDoApp\ToDoApp\bin\Debug\netstandard2.0\ToDoApp.deps.json
+C:\Users\Admin\source\repos\ToDoApp\ToDoApp\ToDoApp\bin\Debug\netstandard2.0\ToDoApp.dll
+C:\Users\Admin\source\repos\ToDoApp\ToDoApp\ToDoApp\bin\Debug\netstandard2.0\ref\ToDoApp.dll
+C:\Users\Admin\source\repos\ToDoApp\ToDoApp\ToDoApp\bin\Debug\netstandard2.0\ToDoApp.pdb
+C:\Users\Admin\source\repos\ToDoApp\ToDoApp\ToDoApp\obj\Debug\netstandard2.0\ToDoApp.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ToDoApp\ToDoApp\ToDoApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\source\repos\ToDoApp\ToDoApp\ToDoApp\obj\Debug\netstandard2.0\ToDoApp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ToDoApp\ToDoApp\ToDoApp\obj\Debug\netstandard2.0\ToDoApp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ToDoApp\ToDoApp\ToDoApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\source\repos\ToDoApp\ToDoApp\ToDoApp\obj\Debug\netstandard2.0\ToDoApp.dll
+C:\Users\Admin\source\repos\ToDoApp\ToDoApp\ToDoApp\obj\Debug\netstandard2.0\ref\ToDoApp.dll
+C:\Users\Admin\source\repos\ToDoApp\ToDoApp\ToDoApp\obj\Debug\netstandard2.0\ToDoApp.pdb
+C:\Users\Admin\source\repos\ToDoApp\ToDoApp\ToDoApp\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\Users\Admin\source\repos\ToDoApp\ToDoApp\ToDoApp\obj\Debug\netstandard2.0\Notes.xaml.g.cs
